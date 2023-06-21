@@ -1,0 +1,8 @@
+06658ae chore: Refactor
+797070f fix: Remove unwanted echo call
+8407a7d chore: Refactor GUESS function
+9003b9a chore: Add comments
+163402e feat: Add number of games played and guesses functionality
+27c1943 feat: Add username query
+ee15885 chore: Add README.md
+f7029db Initial commit
